@@ -17,5 +17,5 @@
 		  ```python
 		  user_read = user_path + user_filename
 		  xlsx = pd.ExcelFile(user_read)
-		  sheets = xlsx.sheet_names
+		  sheets = xlsx.sheet_names #can only use .sheet_names with ExcelFile
 		  ```
