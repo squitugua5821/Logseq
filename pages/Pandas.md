@@ -40,4 +40,4 @@
 			  ```python
 			  filenamer = sheet1[6:] + user_filename[17:-5] + '.csv'
 			  ```
-				- This removes everything from the 6th position onward to remove the 'NOD23 ' in front of the intended string then added to the original filename starting from the 17th position and ending
+				- This removes everything from the 6th position onward to remove the 'NOD23 ' in front of the intended string then added to the original filename starting from the 17th position and ending at -5
