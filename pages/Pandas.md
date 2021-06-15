@@ -12,4 +12,4 @@
 		  row_count = df.shape[0]
 		  col_count = df.shape[1]
 		  ```
-		-
+	- Read tabs from `.XLSX`
