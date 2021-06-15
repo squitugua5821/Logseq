@@ -1,0 +1,2 @@
+# Logseq
+Repo for notes
