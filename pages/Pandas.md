@@ -12,4 +12,8 @@
 		  row_count = df.shape[0]
 		  col_count = df.shape[1]
 		  ```
-	- Read tabs from `.XLSX` and save the
+	- Read tabs from `.XLSX` and save into variable
+		-
+		  ```python
+		  
+		  ```
