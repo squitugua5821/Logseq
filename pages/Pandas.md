@@ -15,5 +15,7 @@
 	- Read tabs from `.XLSX` and save into variable
 		-
 		  ```python
-		  
+		  user_read = user_path + user_filename
+		  xlsx = pd.ExcelFile(user_read)
+		  sheets = xlsx.sheet_names
 		  ```
