@@ -32,4 +32,4 @@
 		  ```python
 		  sheet1, sheet2 = tabs[0], tabs[1]
 		  ```
-			- Manipulate the filename provided by user with string saved into
+			- Manipulate the filename provided by user with string saved in previous code block
