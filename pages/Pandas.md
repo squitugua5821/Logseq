@@ -38,4 +38,4 @@
 			  ```python
 			  filenamer = sheet1[6:] + user_filename[17:-5] + '.csv'
 			  ```
-				- This removes
+				- This removes everything from the 6th position onward
