@@ -1,7 +1,7 @@
 - #Python
   collapsed:: false
 	- [[Libraries]]
-		- [[Pandas]]
+		- [[P()andas]]
 		-
 	-
 -
