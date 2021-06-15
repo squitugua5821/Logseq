@@ -1,4 +1,4 @@
-- Example:
+- Example(s):
 	-
 	  ```python
 	  import pandas as pd
