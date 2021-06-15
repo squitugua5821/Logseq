@@ -22,5 +22,8 @@
 			- Look for specific tab within the list of tabs and save into variable
 				-
 				  ```python
-				  
+				  tabs = []
+				    for match in sheets:
+				        if 'NOD23 P' in match:
+				             tabs.append(match)
 				  ```
