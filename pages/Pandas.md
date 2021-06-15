@@ -27,8 +27,8 @@
 				        if 'NOD23 P' in match:
 				             tabs.append(match)
 				  ```
-	- Find Elements within a dict
+	- Find first and second Elements within a dict and save into separate variables
 		-
 		  ```python
-		  
+		  sheet1, sheet2 = tabs[0]
 		  ```
