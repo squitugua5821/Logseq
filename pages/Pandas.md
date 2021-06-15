@@ -38,6 +38,6 @@
 				- Original Filename: ```P2006650 & P2006660_2_WR AP Sum AP Det NOD23 for May 20-21 as of 2021.06.04```
 			-
 			  ```python
-			  filenamer = sheet1[6:] + user_filename[19:-5] + '.csv'
+			  filenamer = sheet1[6:] + user_filename[17:-5] + '.csv'
 			  ```
-				- This removes everything from the 6th position onward
+				- This removes everything from the 6th position onward to keep the
