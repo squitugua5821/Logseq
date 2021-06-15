@@ -35,4 +35,5 @@
 			- Manipulate the filename provided by user with string saved in previous code block
 			-
 			  ```python
+			  filenamer = sheet1[6:] + user_filename[17:-5] + '.csv'
 			  ```
