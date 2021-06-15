@@ -12,14 +12,11 @@
 		  row_count = df.shape[0]
 		  col_count = df.shape[1]
 		  ```
-	- Read tabs from `.XLSX` and save into variable
+	- Read tabs from `.XLSX` and save into variable (Output is a dictionary of tab names)
 		-
 		  ```python
 		  user_read = user_path + user_filename
 		  xlsx = pd.ExcelFile(user_read)
 		  sheets = xlsx.sheet_names
 		  ```
-		-
-		  ```
-		  Output: 
-		  ```
+	-
