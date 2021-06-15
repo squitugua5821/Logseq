@@ -19,7 +19,7 @@
 		  xlsx = pd.ExcelFile(user_read)
 		  sheets = xlsx.sheet_names
 		  ```
-			- Look for specific tab within the dict of tabs and save into variable
+			- Look for specific tab within the dict of tabs and save into a separate variable
 				-
 				  ```python
 				  tabs = []
