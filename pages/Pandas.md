@@ -8,6 +8,7 @@
 		  ```
 	- Count Rows and Columns of DataFrame
 		-
-		  ```python 
-		  row_count = df.shape[0] 
+		  ```python
+		  row_count = df.shape[0]
+		  col_count = df.shape[1]
 		  ```
