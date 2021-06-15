@@ -33,7 +33,8 @@
 		  sheet1, sheet2 = tabs[0], tabs[1]
 		  ```
 			- Manipulate the filename provided by user with string saved in previous code block
-				- Original Filename:
+				- Original Filename: ```P2006650 & P2006660_2_WR AP Sum AP Det NOD23 for May 20-21 as of 2021.06.04```
+				- D
 			-
 			  ```python
 			  filenamer = sheet1[6:] + user_filename[17:-5] + '.csv'
