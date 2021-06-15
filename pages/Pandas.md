@@ -30,5 +30,5 @@
 	- Find first and second Elements within a dict and save into separate variables
 		-
 		  ```python
-		  sheet1, sheet2 = tabs[0], tabs1
+		  sheet1, sheet2 = tabs[0], tabs[1]
 		  ```
