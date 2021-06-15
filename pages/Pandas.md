@@ -5,6 +5,8 @@
 		  import pandas as pd
 		  
 		  df = pd.read_csv('.csv', header = 1) #import .csv into dataframe and remove top row
+		  df = pd.read_excel('.csv', header = 1) #import .xlsx
+		  df = pd.ExcelFile('.csv', header = 1) #import .xlsx
 		  ```
 	- Count Rows and Columns of DataFrame
 		-
