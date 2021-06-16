@@ -45,7 +45,7 @@
 	- Remove columns that are empty (pandas names them "Unnamed: x")
 		-
 		  ```python
-		  df = df[df.columns.drop(list(df.filter(regex='Unnamed:)))]
+		  df = df[df.columns.drop(list(df.filter(regex='Unnamed:')))]
 		  ```
 - Links:
   collapsed:: true
