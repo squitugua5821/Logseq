@@ -45,3 +45,4 @@
 - Syntax:
 	- [Link: to_frame(), to_list(), astype(), get_dummies() and map()](https://machinelearningknowledge.ai/pandas-tutorial-to_frame-to_list-astype-get_dummies-and-map/#:~:text=Syntax%201%20data%20%3A%20array-like%2C%20Series%2C%20or%20DataFrame,used%20for%20considering%20null%20values.%20More%20items...%20)
 	- [Link: Official Pandas Documentation](https://pandas.pydata.org/docs/)
+	- [Link: Tutorial (Awesome)]{}
