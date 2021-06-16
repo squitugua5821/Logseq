@@ -1,5 +1,5 @@
 - Example(s):
-  collapsed:: true
+  collapsed:: false
 	- Read in `.CSV`
 		-
 		  ```python
