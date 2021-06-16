@@ -9,5 +9,5 @@
 	- Specific Decimal Places
 		-
 		  ```python
-		  float_format="{:0<4}".format 
+		  float_format="{:0<4}".format #formats the decimals to "0.00"
 		  ```
