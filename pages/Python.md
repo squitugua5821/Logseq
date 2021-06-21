@@ -1,6 +1,6 @@
 - #Python
   collapsed:: false
-	- [[Libraries]]
+	- Libraries
 		- [[Pandas]]
 		- [[arcpy]]
 	- [[Workflow]]
