@@ -11,4 +11,5 @@
 	  outpath = r'H:\ArcMAP_Prac\output'
 	  ```
 	- Make Feature Layers
-	  ```python
+	  ```python 
+	  arcpy.MakeFeatureLayer_management(points, 'points_layer')
