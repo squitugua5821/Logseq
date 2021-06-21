@@ -25,8 +25,7 @@
 	- Iterate through a column within the dataset
 	  ```python
 	  
-	  ```
-	- import arcpy 
+	  import arcpy 
 	  arcpy.env.overwriteOutput = True 
 	  points = r'H:\ArcMAP_Prac\populated_data\ne_10m_populated_places.shp'
 	  countries = r'H:\ArcMAP_Prac\populated_data\ne_10m_admin_0_countries.shp'
