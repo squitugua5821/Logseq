@@ -39,4 +39,4 @@
 	- This will point to the specific dataset to use and then list the specific columns to iterate through using the `arcpy.da.SearchCursor` function
 	- Links:
 		- [Arcpy and ArcMap](https://www.youtube.com/playlist?list=PLO6KswO64zVu7S4bqQoHWR5516aCUEnda)
-		- (Arcpy and ArcMap2)[https://www.youtube.com/playlist?list=PLO6KswO64zVt8YCuKIOdCsJvlUivXETGu]
+		- [Arcpy and ArcMap2](https://www.youtube.com/playlist?list=PLO6KswO64zVt8YCuKIOdCsJvlUivXETGu)
