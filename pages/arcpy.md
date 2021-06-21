@@ -20,3 +20,4 @@
 	    arcpy.FeatureClassToFeatureClass_conversion('points_layer', outpath, 'cities_in_{}'.format(country)) 
 	  ```
 	- The files will go to the location that you provided then Drag and Drop the `.shp` to ArcMap
+		- Make sure that the names you are referring to match what is in the Table Attributes
