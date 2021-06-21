@@ -19,4 +19,4 @@
 	    arcpy.MakeFeatureLayer_management(countries, 'countries_layer',""" "NAME" = '{}' """.format(country)) arcpy.SelectLayerByLocation_management('points_layer', 'WITHIN', 'countries_layer')
 	    arcpy.FeatureClassToFeatureClass_conversion('points_layer', outpath, 'cities_in_{}'.format(country)) 
 	  ```
-	-
+	- The files will go to the location that you provided then Drag and Drop the `.shp`
