@@ -11,7 +11,9 @@
 	  outpath = r'H:\ArcMAP_Prac\output'
 	  ```
 	- Make Feature Layers and iterate through a given list
+	  
 	  ```python 
+	  countries_of_interest = ['United States', 'Italy', 'Kenya', 'Gambia', 'Jordan', 'Lebanon', 'France']
 	  arcpy.MakeFeatureLayer_management(points, 'points_layer') for country in countries_of_interest:
 	    print(country)
 	    arcpy.MakeFeatureLayer_management(countries, 'countries_layer',""" "NAME" = '{}' """.format(country)) arcpy.SelectLayerByLocation_management('points_layer', 'WITHIN', 'countries_layer')
