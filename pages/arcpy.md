@@ -36,4 +36,4 @@
 	        print (x[1])
 	        print (x[2]) + '\n'
 	  ```
-	- This will point to the specific dataset to use and then list the specific columns to iterate through
+	- This will point to the specific dataset to use and then list the specific columns to iterate through using the ``
