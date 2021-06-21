@@ -4,7 +4,9 @@
 	  ```python
 	  arcpy.env.overwriteOutput = True
 	  ```
-	- Variables
+	- Variables: Create variables to hold 
 	  ```python
-	  
+	  points = r'H:\ArcMAP_Prac\populated_data\ne_10m_populated_places.shp'
+	  countries = r'H:\ArcMAP_Prac\populated_data\ne_10m_admin_0_countries.shp'
+	  outpath = r'H:\ArcMAP_Prac\output'
 	  ```
