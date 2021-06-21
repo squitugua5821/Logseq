@@ -10,7 +10,7 @@
 	  countries = r'H:\ArcMAP_Prac\populated_data\ne_10m_admin_0_countries.shp'
 	  outpath = r'H:\ArcMAP_Prac\output'
 	  ```
-	- Make Feature Layers
+	- Make Feature Layers and iterate through a given list
 	  ```python 
 	  arcpy.MakeFeatureLayer_management(points, 'points_layer') for country in countries_of_interest:
 	    print(country)
