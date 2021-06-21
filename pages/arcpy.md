@@ -12,7 +12,7 @@
 	  ```
 	- Make Feature Layers and iterate through a given list
 	  
-	  ```python 
+	  ```python
 	  countries_of_interest = ['United States', 'Italy', 'Kenya', 'Gambia', 'Jordan', 'Lebanon', 'France']
 	  arcpy.MakeFeatureLayer_management(points, 'points_layer') for country in countries_of_interest:
 	    print(country)
