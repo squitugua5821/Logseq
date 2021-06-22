@@ -26,7 +26,7 @@
 		  ```python
 		  from backports.functools_lru_cache import lru_cache
 		  ```
-		- Add the decorator lru_cache
+		- Add the decorator lru_cache above function that you want to be enhanced 
 		  ```python
 		  @lru_cache(maxsize=3)
 		  ```
