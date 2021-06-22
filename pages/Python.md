@@ -18,3 +18,5 @@
 	  ```python
 	  %timeit -n1000 -r1 random_prime(9900, 10000)
 	  ```
+		- Call timeit
+			- Specify number of loops `-n1000`
