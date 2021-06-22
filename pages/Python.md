@@ -20,4 +20,4 @@
 	  ```
 		- Call timeit
 			- Specify number of loops `-n1000` = 1000 loops
-			- Use "best of" `-r10` function within `timeit` to see the slowest run, best run, and whether the result is being cached or not
+			- Use "best of" `-r` function within `timeit` to see the slowest run, best run, and whether the result is being cached or not
