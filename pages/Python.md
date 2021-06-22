@@ -24,5 +24,9 @@
 	- Functools lru_cache which improves run time of code
 		- To Import
 		  ```python
-		  
+		  from backports.functools_lru_cache import lru_cache
+		  ```
+		- Add the decorator lru_cache
+		  ```python
+		  @lru_cache(maxsize=3)
 		  ```
