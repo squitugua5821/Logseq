@@ -15,3 +15,6 @@
 		  
 		  ```
 	- To time how fast your function or calculation takes use:
+	  ```python
+	  
+	  ```
