@@ -14,3 +14,4 @@
 		  float_format="{:0<7}".format #formats the decimals to "0.00000"
 		  
 		  ```
+	- To time how fast your function or calculation takes use:
