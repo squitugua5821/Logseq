@@ -31,3 +31,4 @@
 		  @lru_cache(maxsize=None)
 		  def func()
 		  ```
+		- If having an issue importing
