@@ -20,4 +20,4 @@
 	  ```
 		- Call timeit
 			- Specify number of loops `-n1000` = 1000 loops
-			- Use "best of" function within `timeit` to see which
+			- Use "best of" function within `timeit` to see how many runs occurred
