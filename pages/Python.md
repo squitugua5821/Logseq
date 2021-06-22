@@ -28,5 +28,6 @@
 		  ```
 		- Add the decorator lru_cache above function that you want to be enhanced 
 		  ```python
-		  @lru_cache(maxsize=3)
+		  @lru_cache(maxsize=None)
+		  def func()
 		  ```
