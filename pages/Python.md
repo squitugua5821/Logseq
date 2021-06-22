@@ -32,4 +32,4 @@
 		  def func()
 		  ```
 		- If having an issue importing
-			- Go to settings.json and add `"alias python": "python3"` after
+			- Go to settings.json and add `"alias python": "python3"` after `"source": "Git Bash"`
