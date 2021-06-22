@@ -32,3 +32,4 @@
 		  def func()
 		  ```
 		- If having an issue importing
+			- Go to settings
