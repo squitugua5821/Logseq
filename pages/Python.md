@@ -45,5 +45,39 @@
 		- Create a src folder and module folder (where all of the functions live) then create a folder for main app.py
 		- Import the modules and then to call the funcs within the module, use the func name `.func` looks like this:
 		  ```python
+		  from cycle_a import (
+		      agent_of_record,
+		      back_out,
+		      bill_reg,
+		      boa_flow,
+		      cash_application,
+		      credit_invoices,
+		      dept_of_insurance,
+		      nod23,
+		      sco_dex_flow,
+		  )
 		  
+		  
+		  def main():
+		      """Dictionary provides the options to select via CLI, will be removed and functions inserted
+		      once this is ready to be automated
+		      """
+		  
+		      while True:
+		  
+		          try:
+		              print(
+		                  "\n         *****Main Menu*****",
+		                  "\n=====================================\nTo Terminate Program Press 'Ctrl   C'\n=====================================",
+		              )
+		              func_dict = {
+		                  "1": bill_reg.bill_Register,
+		                  "2": back_out.backed_Out,
+		                  "3": boa_flow.boa,
+		                  "4": cash_application.cash_app,
+		                  "5": agent_of_record.agent_record,
+		                  "6": dept_of_insurance.doi,
+		                  "7": sco_dex_flow.sco_dex,
+		                  "8": credit_invoices.credit_invoice,
+		                  "9": nod23.nod_23,
 		  ```
