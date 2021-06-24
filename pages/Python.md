@@ -46,8 +46,7 @@
 		- Import the modules and then to call the funcs within the module, use the func name `.func` looks like this:
 		  ```python
 		  
-		  ```
-		- from cycle_a import (
+		  ``` from cycle_a import (
 		    agent_of_record,
 		    back_out,
 		    bill_reg,
@@ -58,10 +57,6 @@
 		    nod23,
 		    sco_dex_flow,
 		  )
-		- def main():
-		    """Dictionary provides the options to select via CLI, will be removed and functions inserted
-		    once this is ready to be automated
-		    """
 		- while True:
 		- try:
 		            print(
