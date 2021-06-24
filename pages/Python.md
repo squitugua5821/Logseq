@@ -56,21 +56,10 @@
 		    dept_of_insurance,
 		    nod23,
 		    sco_dex_flow,
-		  )
-		- while True:
-		- try:
-		            print(
-		                "\n         *****Main Menu*****",
-		                "\n=====================================\nTo Terminate Program Press 'Ctrl   C'\n=====================================",
-		            )
-		            func_dict = {
-		                "1": bill_reg.bill_Register,
-		                "2": back_out.backed_Out,
-		                "3": boa_flow.boa,
-		                "4": cash_application.cash_app,
-		                "5": agent_of_record.agent_record,
-		                "6": dept_of_insurance.doi,
-		                "7": sco_dex_flow.sco_dex,
-		                "8": credit_invoices.credit_invoice,
-		                "9": nod23.nod_23,
+		  ) 
+		  def main():
+		    """Dictionary provides the options to select via CLI, will be removed and functions inserted
+		    once this is ready to be automated
+		    """ 
+		  while True:
 		-
