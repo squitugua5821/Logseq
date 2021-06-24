@@ -42,4 +42,5 @@
 				- This problem occurs with Python 2.7 usually
 	- Creating an app
 		- Use Poetry #Workflow to organize everything
-		- Create a src folder
+		- Create a src folder and module folder (where all of the functions live) then create a folder for main app.py
+		-
