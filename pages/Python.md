@@ -43,4 +43,4 @@
 	- Creating an app
 		- Use Poetry #Workflow to organize everything
 		- Create a src folder and module folder (where all of the functions live) then create a folder for main app.py
-		-
+		- Import the modules and then to call the funcs within the module, use the func name `.func`
