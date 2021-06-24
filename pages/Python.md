@@ -41,4 +41,4 @@
 			  }```
 				- This problem occurs with Python 2.7 usually
 	- Creating an app
-		- Use Poetry to organize everything
+		- Use Poetry [[Workflow]] to organize everything
