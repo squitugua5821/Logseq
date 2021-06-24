@@ -41,4 +41,5 @@
 			  }```
 				- This problem occurs with Python 2.7 usually
 	- Creating an app
-		- Use Poetry [[Workflow]] to organize everything
+		- Use Poetry #Workflow to organize everything
+		- Create a src folder
