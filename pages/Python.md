@@ -78,4 +78,4 @@
 		                "8": credit_invoices.credit_invoice,
 		                "9": nod23.nod_23,
 		  ```
-		- Turquoise is the function and the
+		- Turquoise is the function and the bluish color is the module (in the dict)
